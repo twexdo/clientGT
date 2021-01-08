@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "73124451278",
+    "firebase_url": "https://licenta-98c50.firebaseio.com",
+    "project_id": "licenta-98c50",
+    "storage_bucket": "licenta-98c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73124451278:android:a6f1355c8f6ba2dfa0519f",
+        "android_client_info": {
+          "package_name": "com.adrian.sofergt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73124451278-vjgattkkjr6iiac1jrkoqtjuit7m7st0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adrian.sofergt",
+            "certificate_hash": "6329da75cb2fee889d2a5a12f5d056b8da924ec9"
+          }
+        },
+        {
+          "client_id": "73124451278-piuu4rhgf47c2vl8gv5od8gckld0biml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB35RtgUrO6cNw32yxwJGo80BSVRljrMvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73124451278-piuu4rhgf47c2vl8gv5od8gckld0biml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73124451278:android:ca4763a82460d92da0519f",
+        "android_client_info": {
+          "package_name": "com.twexdo.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73124451278-piuu4rhgf47c2vl8gv5od8gckld0biml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB35RtgUrO6cNw32yxwJGo80BSVRljrMvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73124451278-piuu4rhgf47c2vl8gv5od8gckld0biml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

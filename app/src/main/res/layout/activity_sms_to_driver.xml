@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="10dp"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.soferi.SmsToDriver">
+    <TextView
+        android:id="@+id/intampinare"
+        android:textColor="#000"
+        android:text="Unde doriti ca ______ sa vina?"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:id="@+id/locatie"
+        android:textColor="#000"
+        android:text="Apasa pe mapa pentru a ne oferi o loatie clara:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+        <com.google.android.gms.maps.MapView
+            android:layout_weight="2"
+            android:id="@+id/mapView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    <TextView
+        android:textColor="#000"
+        android:text="Va rugam sa ne oferiti un reper ."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <EditText
+        android:id="@+id/sms_reper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="In fata la restaurantul x "
+        />
+    <Button
+        android:id="@+id/sms_send"
+        android:text="Trimite comanda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

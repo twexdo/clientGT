@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GreenPel Taxi Tarnaveni</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Green Taxi</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Mapa</string>
+    <string name="menu_gallery">Soferi</string>
+    <string name="menu_slideshow">Info</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share App</string>
+    <string name="menu_send">Raporteaza erori</string>
+
+    <string name="map_key" translatable="false">AIzaSyDRTlRlGBq7cgrjThZN9M-isdjlgrbSuWI</string>
+    <string name="rublica_recomandari">Aici puteti trimite recomandari pentru aplicatie sau pentru soferi,sau erori produse de aplicatie:</string>
+
+    <string name="infos">
+        Punctualitatea, curățenia, loialitatea discreția sunt principalele caracteristici pe care noi împreună cu clienții noștri ni le-am însușit.\n
+        Nu trebuie să uităm de comfortul mașinilor, performanța șoferilor precum si ospitalitatea acestora!\n
+        Patru mașini stau la dispoziția dumneavoastră. Ne puteți vedea pe hartă  in timp real și doar cu o atingere ne puteți apela instant.\n
+
+    </string>
+    <string name="info2">(Pentru a apela de pe mapa se apasa pe Marker apoi se tine apasat pe numarul de telefon)</string>
+    <string name="infoDeveloper">(Developer:Stef Vasile Adrian-0744857875)</string>
+</resources>
