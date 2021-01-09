@@ -1,230 +1,230 @@
 [
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_client_confirmare.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\activity_client_confirmare.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_send.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\fragment_send.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\fragment_map.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_soferi.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\fragment_soferi.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\content_main.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_layers_black_24dp.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_layers_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view__map.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\activity_view__map.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_layers_black_24dp.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_layers_black_24dp.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialogtheme.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\dialogtheme.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\row.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view__map.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\activity_view__map.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialogbutton.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\dialogbutton.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_client_confirmare.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\activity_client_confirmare.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_black_24dp.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_person_black_24dp.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_share.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_send.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\fragment_send.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_info.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\fragment_info.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sms_to_driver.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\activity_sms_to_driver.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_manage.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sms.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\sms.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialogtheme.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\dialogtheme.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dubluocupat.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\dubluocupat.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_info.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\fragment_info.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_liber.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\liber.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw_iconraul.jpeg.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\raw\\iconraul.jpeg"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_map.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\fragment_map.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar_cornered.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\side_nav_bar_cornered.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_liber.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\liber.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ocupat.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\ocupat.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ocupat.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\ocupat.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dialogbutton.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\dialogbutton.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar_cornered.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\side_nav_bar_cornered.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_black_24dp.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_person_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_send.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_black_24dp.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\raw_iconraul.jpeg.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\raw\\iconraul.jpeg"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sms_to_driver.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\layout\\activity_sms_to_driver.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_black_24dp.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\row.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sms.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\sms.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_soferi.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\layout\\fragment_soferi.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indisponibil.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\indisponibil.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indisponibil.xml.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\drawable\\indisponibil.xml"
     },
     {
-        "merged": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dubluocupat.xml.flat",
-        "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\drawable\\dubluocupat.xml"
+        "merged": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

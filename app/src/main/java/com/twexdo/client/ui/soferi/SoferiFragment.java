@@ -84,25 +84,6 @@ public class SoferiFragment extends Fragment {
                                     dialog.dismiss();
                                 }
                             });
-                    alertDialog.setButton(AlertDialog.BUTTON_NEGATIVE, "MESAJ",
-                            new DialogInterface.OnClickListener() {
-                                public void onClick(DialogInterface dialog, int which) {
-                                    // Toast.makeText(getActivity(), "TRIMITERE MESAJ", Toast.LENGTH_SHORT).show();
-
-                                    if (FirebaseAuth.getInstance().getCurrentUser() != null) {
-                                        Intent intent = new Intent(getActivity(), SmsToDriver.class);
-                                        intent.putExtra("nr_tel_soferCerut", telefon);
-                                        intent.putExtra("nume_soferCerut", nume);
-
-                                        startActivity(intent);
-                                    } else {
-                                        Intent intent = new Intent(getActivity(), LogInActivity.class);
-                                        startActivity(intent);
-                                    }
-
-                                    dialog.dismiss();
-                                }
-                            });
 
                     alertDialog.setButton(AlertDialog.BUTTON_NEUTRAL, "IESIRE",
                             new DialogInterface.OnClickListener() {

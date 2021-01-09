@@ -33,20 +33,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <service
-            android:name="com.twexdo.client.FMessagingService"
-            android:enabled="true"
-            android:exported="true" >
-            <intent-filter>
-                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-            </intent-filter>
-        </service>
-
         <activity android:name="com.twexdo.client.LogInActivity" />
-        <activity android:name="com.twexdo.client.ui.soferi.SmsToDriver" />
-        <activity
-            android:name="com.twexdo.client.ClientConfirmare"
-            android:theme="@android:style/Theme.Dialog" />
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"

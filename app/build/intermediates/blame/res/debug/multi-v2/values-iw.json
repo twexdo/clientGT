@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
+            "outputFile": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\stef\\.gradle\\caches\\transforms-2\\files-2.1\\a5ffcde1e37beb5eb4152a327c6630f2\\jetified-firebase-messaging-21.0.1\\res\\values-iw\\values.xml",

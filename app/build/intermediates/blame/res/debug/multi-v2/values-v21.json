@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\stef\\.gradle\\caches\\transforms-2\\files-2.1\\a175e2da16eb53d15e4ee769378a9da4\\appcompat-1.1.0\\res\\values-v21\\values-v21.xml",
@@ -61,25 +61,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\values-v21\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "19",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "246"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "1215",
-                        "endLines": "20",
-                        "endColumns": "12",
-                        "endOffsets": "1438"
-                    }
-                },
-                {
                     "source": "C:\\Users\\stef\\.gradle\\caches\\transforms-2\\files-2.1\\70890aba28abd509e893cdf778b87741\\material-1.1.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,15,16,19,24,35,41,47,53,59,65,69,72,75,78,81,85",
@@ -96,6 +77,25 @@
                         "endLines": "3,4,5,6,7,8,9,10,11,12,84,244,247,252,263,269,329,335,341,347,351,354,357,360,363,375,379",
                         "endColumns": "67,78,87,87,87,87,86,86,86,86,10,115,10,12,10,10,10,10,10,10,10,10,10,10,10,10,10",
                         "endOffsets": "236,315,403,491,579,667,754,841,928,1015,7121,18334,18504,18825,19854,20311,24164,24508,24858,25208,25601,25819,26041,26267,26483,27248,27507"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "246"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1215",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "1438"
                     }
                 }
             ]

@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "296",
+                        "startColumns": "4",
+                        "startOffsets": "16714",
+                        "endColumns": "56",
+                        "endOffsets": "16766"
+                    }
+                },
                 {
                     "source": "C:\\Users\\stef\\.gradle\\caches\\transforms-2\\files-2.1\\52a69b5337d0ba9e7660b2f59a72a6dc\\constraintlayout-1.1.3\\res\\values\\values.xml",
                     "from": {
@@ -78,6 +95,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,198,306,387,491,599,719,816",
+                        "endColumns": "142,107,80,103,107,119,96,73",
+                        "endOffsets": "193,301,382,486,594,714,811,885"
+                    },
+                    "to": {
+                        "startLines": "838,844,845,846,847,848,849,913",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "53013,53706,53814,53895,53999,54107,54227,63112",
+                        "endColumns": "142,107,80,103,107,119,96,73",
+                        "endOffsets": "53151,53809,53890,53994,54102,54222,54319,63181"
+                    }
+                },
+                {
                     "source": "C:\\Users\\stef\\.gradle\\caches\\transforms-2\\files-2.1\\bd8a9aeaa083678cb22f5145dcadb0e2\\jetified-appcompat-resources-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,29,36,47,74",
@@ -94,23 +128,6 @@
                         "endLines": "4585,4592,4603,6764,6769",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "305053,305438,306035,425134,425404"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "56",
-                        "endOffsets": "109"
-                    },
-                    "to": {
-                        "startLines": "296",
-                        "startColumns": "4",
-                        "startOffsets": "16714",
-                        "endColumns": "56",
-                        "endOffsets": "16766"
                     }
                 },
                 {
@@ -167,6 +184,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "7,1,25,26,19,16,10,9,14,13,11,12,6,5,4,3,2,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "401,17,1451,1575,1001,753,501,457,695,645,550,599,338,288,231,154,79,851",
+                        "endLines": "7,1,25,26,24,16,10,9,14,13,11,12,6,5,4,3,2,17",
+                        "endColumns": "52,60,122,83,13,96,47,42,54,48,47,44,61,48,55,75,73,146",
+                        "endOffsets": "449,73,1569,1654,1445,845,544,495,745,689,593,639,395,332,282,225,148,993"
+                    },
+                    "to": {
+                        "startLines": "811,812,852,853,854,860,861,862,863,864,865,866,903,904,905,906,907,914",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "49858,49911,54631,54754,54838,55282,55379,55427,55470,55525,55574,55622,62001,62063,62104,62160,62236,63186",
+                        "endLines": "811,812,852,853,859,860,861,862,863,864,865,866,903,904,905,906,907,914",
+                        "endColumns": "52,60,122,83,13,96,47,42,54,48,47,44,61,40,55,75,73,146",
+                        "endOffsets": "49906,49967,54749,54833,55277,55374,55422,55465,55520,55569,55617,55662,62058,62099,62155,62231,62305,63328"
+                    }
+                },
+                {
                     "source": "C:\\Users\\stef\\.gradle\\caches\\transforms-2\\files-2.1\\d7946066c32494519a67483f012a78f8\\jetified-play-services-base-17.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,33,46",
@@ -183,23 +219,6 @@
                         "endLines": "243,244,245,246,247,248,249,250,820,821,822,823,824,825,826,827,829,830,831,832,833,834,835,836,837,6063,6702",
                         "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78,20,20",
                         "endOffsets": "13024,13104,13194,13284,13364,13445,13525,13605,50780,50961,51086,51193,51373,51496,51612,51715,52070,52175,52356,52481,52656,52804,52867,52929,53008,391379,421627"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "2,3,6,5,4",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "90,149,316,265,206",
-                        "endColumns": "57,55,41,49,57",
-                        "endOffsets": "143,200,353,310,259"
-                    },
-                    "to": {
-                        "startLines": "419,420,482,646,647",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "24994,25052,29066,40006,40056",
-                        "endColumns": "57,55,41,49,57",
-                        "endOffsets": "25047,25103,29103,40051,40109"
                     }
                 },
                 {
@@ -241,39 +260,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "7,1,25,26,19,16,10,9,14,13,11,12,6,5,4,3,2,17",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "401,17,1451,1575,1001,753,501,457,695,645,550,599,338,288,231,154,79,851",
-                        "endLines": "7,1,25,26,24,16,10,9,14,13,11,12,6,5,4,3,2,17",
-                        "endColumns": "52,60,122,83,13,96,47,42,54,48,47,44,61,48,55,75,73,146",
-                        "endOffsets": "449,73,1569,1654,1445,845,544,495,745,689,593,639,395,332,282,225,148,993"
+                        "startLines": "2,3,6,5,4",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "90,149,316,265,206",
+                        "endColumns": "57,55,41,49,57",
+                        "endOffsets": "143,200,353,310,259"
                     },
                     "to": {
-                        "startLines": "811,812,852,853,854,860,861,862,863,864,865,866,903,904,905,906,907,914",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "49858,49911,54631,54754,54838,55282,55379,55427,55470,55525,55574,55622,62001,62063,62104,62160,62236,63186",
-                        "endLines": "811,812,852,853,859,860,861,862,863,864,865,866,903,904,905,906,907,914",
-                        "endColumns": "52,60,122,83,13,96,47,42,54,48,47,44,61,40,55,75,73,146",
-                        "endOffsets": "49906,49967,54749,54833,55277,55374,55422,55465,55520,55569,55617,55662,62058,62099,62155,62231,62305,63328"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,198,306,387,491,599,719,816",
-                        "endColumns": "142,107,80,103,107,119,96,73",
-                        "endOffsets": "193,301,382,486,594,714,811,885"
-                    },
-                    "to": {
-                        "startLines": "838,844,845,846,847,848,849,913",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "53013,53706,53814,53895,53999,54107,54227,63112",
-                        "endColumns": "142,107,80,103,107,119,96,73",
-                        "endOffsets": "53151,53809,53890,53994,54102,54222,54319,63181"
+                        "startLines": "419,420,482,646,647",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "24994,25052,29066,40006,40056",
+                        "endColumns": "57,55,41,49,57",
+                        "endOffsets": "25047,25103,29103,40051,40109"
                     }
                 },
                 {
@@ -296,22 +296,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "3,15,10,17",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "57,540,384,634",
-                        "endLines": "8,15,13,17",
-                        "endColumns": "12,90,12,80",
-                        "endOffsets": "376,626,532,710"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
                     },
                     "to": {
-                        "startLines": "930,936,937,941",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "64461,64780,64870,65020",
-                        "endLines": "935,936,940,941",
-                        "endColumns": "12,89,12,79",
-                        "endOffsets": "64775,64865,65015,65095"
+                        "startLines": "240,241,242",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "12795,12841,12888",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "12836,12883,12934"
                     }
                 },
                 {
@@ -446,23 +444,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\stef\\Desktop\\Licenta\\Client - Copy\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
-                    },
-                    "to": {
-                        "startLines": "240,241,242",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "12795,12841,12888",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "12836,12883,12934"
-                    }
-                },
-                {
                     "source": "C:\\Users\\stef\\.gradle\\caches\\transforms-2\\files-2.1\\53b0f701ca69b0be85241d4c841e06ca\\navigation-runtime-2.3.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,10,13",
@@ -479,6 +460,25 @@
                         "endLines": "725,4548,6498,6504",
                         "endColumns": "52,24,24,24",
                         "endOffsets": "44688,302889,410964,411206"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\stef\\Desktop\\Client - Copy\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,15,10,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,540,384,634",
+                        "endLines": "8,15,13,17",
+                        "endColumns": "12,90,12,80",
+                        "endOffsets": "376,626,532,710"
+                    },
+                    "to": {
+                        "startLines": "930,936,937,941",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "64461,64780,64870,65020",
+                        "endLines": "935,936,940,941",
+                        "endColumns": "12,89,12,79",
+                        "endOffsets": "64775,64865,65015,65095"
                     }
                 },
                 {
